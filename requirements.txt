@@ -33,4 +33,4 @@ scipy==1.4.1
 six==1.14.0
 sqlparse==0.3.1
 tifffile==2020.5.7
-urllib3==1.25.9
+urllib3==1.26.5
